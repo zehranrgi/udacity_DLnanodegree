@@ -1,6 +1,7 @@
 # udacity_DLnanodegree
 
-Projects: 
+Five Projects are finished at the end of the courses: 
+ [Face Generator](https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/generate_faces_DCGAN) , [Landmark](https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/landmark-project),  [TV Script]( https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/rnn-lstm) 
 
 1.[] 
 
