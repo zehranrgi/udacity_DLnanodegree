@@ -1,7 +1,7 @@
 # udacity_DLnanodegree
 
 Five Projects are completed at the end of the courses: 
- [Face Generator](https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/generate_faces_DCGAN) , [Landmark](https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/landmark-project),  [TV Script]( https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/rnn-lstm) 
+ [Bike Sharing]( https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/bike-sharing), [Face Generator](https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/generate_faces_DCGAN) , [Landmark](https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/landmark-project),  [TV Script]( https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/rnn-lstm) 
 
 1. [Bike Sharing]( https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/bike-sharing)
 
