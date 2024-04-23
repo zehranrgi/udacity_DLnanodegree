@@ -1,5 +1,7 @@
 # udacity_DLnanodegree
 
+This course takes 4 months to complete. 
+
 Five Projects are completed at the end of the courses: 
 
  [Bike Sharing]( https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/bike-sharing), [Face Generator](https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/generate_faces_DCGAN) , [Landmark](https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/landmark-project),  [TV Script]( https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/rnn-lstm) , [Sentiment Sagemaker Deployment AWS]( https://github.com/zehranrgi/udacity_DLnanodegree/tree/main/rnn-lstm) 
